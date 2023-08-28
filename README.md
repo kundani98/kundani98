@@ -1,8 +1,10 @@
-### Hi there 👋
+
+![image](https://github.com/kundani98/kundani98/assets/64401025/67712dde-bd71-48a4-8a1e-9f9d12dd7c9d)
+
+Hi there 👋
+I'm a full-stack developer that excels at finding elegant solutions to challenges. I'm also a talented problem-solver, quick study, team player, and client-satisfaction expert who is very motivated to work as a member of a team to produce high-quality products and services.
 
 <!--
-**kundani98/kundani98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
